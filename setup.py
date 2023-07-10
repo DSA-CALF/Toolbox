@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="ToolboxDSA",
-    version="0.0.2",
+    version="0.0.3",
     author="DSA_CALF",
     author_email="calfdsa@gmail.com",
     description="Tool Box of different relevant analysis, statistical tests and modelization tools used by CALF.",
